@@ -12,6 +12,7 @@ import org.springframework.web.servlet.config.annotation.WebMvcConfigurer;
  * 2： Uncaught (in promise) Error: Network Error
  *     at createError (createError.js?2d83:16)
  *     at XMLHttpRequest.handleError (xhr.js?b50d:69)
+ *
  */
 @Configuration
 public class CrosConfig implements WebMvcConfigurer {
